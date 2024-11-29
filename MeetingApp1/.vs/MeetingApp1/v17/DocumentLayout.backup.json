@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|c:\\users\\rahim\\source\\repos\\meetingapp1\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|solutionrelative:views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|c:\\users\\rahim\\source\\repos\\meetingapp1\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|c:\\users\\rahim\\source\\repos\\meetingapp1\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|solutionrelative:models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|c:\\users\\rahim\\source\\repos\\meetingapp1\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|c:\\users\\rahim\\source\\repos\\meetingapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|c:\\users\\rahim\\source\\repos\\meetingapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D073261-45C1-4282-A195-35171FC0BE0C}|MeetingApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Views\\Meeting\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Views\\Meeting\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Apply.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T00:05:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:04:46.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Models\\UserInfo.cs",
+              "RelativeToolTip": "Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:03:45.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T23:57:16.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:56:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rahim\\source\\repos\\MeetingApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:35:18.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

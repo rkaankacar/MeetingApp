@@ -1,0 +1,8 @@
+﻿
+.validation-summary-errors {
+    color:firebrick
+}
+
+.input-validation-error {
+    border: 1px solid firebrick;
+}

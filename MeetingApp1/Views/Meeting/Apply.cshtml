@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.title = "Toplantı Katılım Formu";
+            // <form method="post"> post request yapar fakat buna uygun postaction metodu oluşturmazsak çalışmaz hata verir
+            //novalidate html5 haat mesajlarını engelller kendimiz hata mesajalrı yazarız
+}
+@model UserInfo
+<h1 class="h4 text-center"> Toplantı Katılım Formu</h1>
+<form method="post" novalidate> 
+    <div asp-validation-summary="All"></div> @* formdaki hataları gösteren tag helper *@
+     <div class="mb-3">
+        <label asp-for="Name" class="form-label">Ad-Soyad</label>
+         <input asp-for="Name" class="form-control"/>
+     </div>
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Telefon</label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Eposta</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="WillAttend" class="form-label">Katılım Durumu</label>
+        <select  asp-for="WillAttend" class="form-select">
+            <option value="true">Evet, Geliyorum</option>
+            <option value="false">Hayır, Gelmiyorum</option>
+        </select>
+    </div>
+    <button class="btn btn-primary" type="submit">Kaydet</button>
+</form>

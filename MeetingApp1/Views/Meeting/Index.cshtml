@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model UserInfo
+@{
+    ViewBag.title = "Toplantı Özeti";
+}
+<main class="text-center">
+<h1 class="h4">Toplantı Özeti</h1>
+
+    @if (Model.WillAttend == true)
+    {
+        <p>Teşekkürler, @Model.Name Toplantıya sizinle birlikte @ViewBag.UserCount kişi katılıyor</p>
+        <a class="btn btn-sm btn-outline-primary" asp-controller="Meeting" asp-action="List">Katılımcıları Listele</a>
+    }
+    else
+    {
+        <p>@Model.Name, katılmadığınızdan dolayı üzgünüz.</p>
+        <a class="btn btn-sm btn-outline-primary" asp-controller="Meeting" asp-action="Apply">Başvuru Formu</a>
+    }
+</main>

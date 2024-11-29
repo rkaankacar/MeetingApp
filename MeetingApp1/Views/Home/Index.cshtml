@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model MeetingInfo;
+@{    
+
+    ViewBag.title = "Toplantı Başvuru";
+}
+<main class="text-center">
+   <h1 class="h4">Merhaba</h1>
+    <p>Toplantı katılım durumunuzu belirtin</p>
+    <p>@ViewBag.saat</p>
+     <div class="card my-2">
+         <ul class="list-group list-group-flush">
+             <li class="list-group-item">@Model.Location</li>
+             <li class="list-group-item">@Model.Date.ToString("dd/MM/yyyy HH:mm:ss") tarihinde gerçekleşecek</li>
+             <li class="list-group-item">@Model.NumberOfPeople Katılımcı</li>
+         </ul>
+     </div>
+    <a class="btn btn-sm btn-outline-primary" asp-controller="Meeting" asp-action="Apply"> Başvuru Yap </a>
+    </main>
